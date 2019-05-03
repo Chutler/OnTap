@@ -20,7 +20,7 @@ craig at craighutler.com
 
 ## Technologies Used
 
-Written for Python 3.7 and leveraging the Requests and Beautiful Soup modules.
+Written for Python 3.7 - leveraging the Requests and Beautiful Soup modules.
 
 ### License
 
