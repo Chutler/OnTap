@@ -16,7 +16,7 @@ None at present.
 
 ## Support and contact details
 
-craig@craighutler.com
+craig at craighutler.com
 
 ## Technologies Used
 
